@@ -47,3 +47,10 @@ Many of these issues could be resolved by investigating alternative detection me
 * [Counting Cars Open CV (Dan Masek)](https://stackoverflow.com/a/36274515)
 * [Speed Tracking (Ian Dees)](https://github.com/iandees/speedtrack)
 * [SDC Vehicle Lane Detection (Max Ritter)](https://github.com/maxritter/SDC-Vehicle-Lane-Detection)
+
+---
+
+## Invoice Parser Web App
+
+A small Flask application for uploading invoices (PDF or image) and parsing them using OpenAI GPT.
+See [invoice_app/README.md](invoice_app/README.md) for setup and usage instructions.

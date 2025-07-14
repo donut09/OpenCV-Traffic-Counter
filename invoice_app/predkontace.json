@@ -1,0 +1,5 @@
+{
+  "zaklad": {"account": "321", "description": "Základ DPH"},
+  "dph": {"account": "343", "description": "DPH 21%"},
+  "payment": {"account": "221", "description": "Úhrada dodavateli"}
+}
